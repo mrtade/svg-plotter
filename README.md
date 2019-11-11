@@ -1,4 +1,9 @@
 # svg-plotter
+```
+* This is the bare structure and the vue app is incomplete.
+* The application allows the user draw ONLY a circle and a rectangle based on user inputs.
+* It is NOT as dynamic as required.
+```
 
 ## Project setup
 ```
